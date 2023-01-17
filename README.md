@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif)][![MasterHead](https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif)]
+[![MasterHead](https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif)]
 <h1 align="center">Hi 👋, I'm Behloul Anas</h1>
 <h3 align="center">Full-stack web developer: Front-End and Back-End from Morocco</h3><br>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/IGyOkb1TufkAAAAM/who-asked.gif">
