@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **behloulanas2001@gmail.com**
 
-- ⚡ Fun fact **funny gamer**
+- ⚡ Fun fact ***funny gamer***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
