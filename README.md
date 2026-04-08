@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **Laravel website**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React***
 
-- 📫 How to reach me **behloulanas2001@gmail.com**
+- 📫 How to reach me ***behloulanas2001@gmail.com***
 
 - ⚡ Fun fact **funny gamer**
 
